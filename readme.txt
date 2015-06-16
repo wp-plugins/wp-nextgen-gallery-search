@@ -24,6 +24,7 @@ Your Customers will be able to:
 
 	
 = KEY BENEFITS: =
+- Compatible with Nextgen gallery 2.0 or later or any version
 - Search all nextgen gallery with a keyword. 
 - search result will be shown as a list with caption.
 - there is a seperate shortcode to have search box anywhere.
