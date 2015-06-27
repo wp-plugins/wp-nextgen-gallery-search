@@ -16,8 +16,17 @@ Copyright (C) 2015 UpScaleThought
 define('GEN_USTS_NGGS_PLUGIN_URL', plugins_url('',__FILE__));
 define("GEN_USTS_BASE_URL", WP_PLUGIN_URL.'/'.plugin_basename(dirname(__FILE__)));
 define('GEN_USTS_NGGS_DIR', plugin_dir_path(__FILE__) );
-
-$usts_ngg_page = get_page_by_title('Gen Ngg Gallery Search');
+//$page = get_page_by_path($slug);
+//$title = get_the_title($page->ID);
+/*$usts_ngg_page = get_posts(
+    array(
+        'name'      => 'gen-gallery-search',
+        'post_type' => 'page'
+    )
+);*/
+$usts_ngg_page = get_page_by_path('gen-gallery-search');
+//die(print_r($pg));
+//$usts_ngg_page = get_page_by_title('Gen Ngg Gallery Search');
 $usts_ngg_page_id = 0;
 if($usts_ngg_page){
 	$usts_ngg_page_id = $usts_ngg_page->ID;
