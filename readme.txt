@@ -1,8 +1,7 @@
 === WP NextGen Gallery Search ===
 Contributors: upscalethought
 
-Tags: admin, administration, AJAX, gallery, plugin, nextgen, nextgen gallery, nextgen gallery image search, gallery search all version, all gallery search, 
-nextgen gallery tag search, nextgen gallery description search, nextgen gallery title search, nextgen gallery search plugin, nextgen search plugin all version,wordpress,wp,gallery search,nextgen image search
+Tags: admin, administration, AJAX, gallery, plugin, nextgen, nextgen gallery, nextgen gallery image search, gallery search all version, all gallery search, nextgen gallery tag search, nextgen gallery description search, nextgen gallery title search, nextgen gallery search plugin, nextgen search plugin all version,wordpress,wp,gallery search,nextgen image search
 
 Requires at least: 3.3.0.
 Stable tag: 1.1
